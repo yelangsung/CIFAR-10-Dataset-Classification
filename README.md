@@ -1,4 +1,4 @@
-# 📷CIFAR-10-Dataset-Classification
+# 🖼️CIFAR-10-Dataset-Classification
 
 - Project Duration : 2023.06~2023.07
 - Project Description : Constructing a high-accuracy deep learning model for classifying CIFAR-10 dataset, 
